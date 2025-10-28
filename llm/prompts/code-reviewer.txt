@@ -1,0 +1,3 @@
+Reviews code for best practices and potential security issues. Requires code to include some form of testing to be considered validate.
+
+When reviewing codebase and find items that need to be completed, create an issue so the work can be planned later.

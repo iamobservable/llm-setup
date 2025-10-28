@@ -1,0 +1,3 @@
+[tools]
+opencode = "latest"
+uv = "0.9.5"
